@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+header{
+    background: #313131;
+    text-align: center;
+    padding: 35px;
+}
+.logo{
+    width: 50px;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 700;
+font-size: 40px;
+text-align: center;
+color: #fff;
+margin-bottom: 60px;
+}
+main{
+    background-color: black;
+    padding-top: 80px;
+    text-align: center;
+}
+.link{
+font-weight: 700;
+font-size: 25px;
+text-align: right;
+color: #51acff;
+text-decoration: none;
+text-align: center;
+font-weight: 700px;
+}
+.monitor{
+    width: 649px;
+    height: 532px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+footer{
+    background: #313131;
+    text-align: center;
+    padding-top: 40px;
+}
+.foottext{
+font-weight: 1000;
+font-size: 15px;
+line-height: 180%;
+text-align: center;
+color: #7d7d7d;
+}
+.card{
+    width: 250px;
+}
+.footlink{
+    color: #51acff;
+    text-decoration: none;
+}
